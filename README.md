@@ -141,109 +141,40 @@ This repository presents a collection of technologies and tools that I've used a
 <!--
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 -->
-# Welcome to Demy Guy's GitHub Profile 👋
+
+## Contact Me 📫
+
+Feel free to reach out to me at: developefullstack420@gmail.com
 
 <p align="center">
-<a href="https://github.com/DemyGuy?tab=repositories">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=DemyGuy&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Demy Guy's github-readme-stats"/>
-</a>
-<a href="https://github.com/DemyGuy?tab=stars">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DemyGuy&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Demy Guy's github-readme-streak-stats"/>
-</a>
+<img src="https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true" width="70%" alt="portfolio screenshot" />
 </p>
 
-<p align="center">
-<a href="https://rextester.com/l/kotlin_online_compiler">
-<img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/>
-</a>
-</p>
+## Navigation 🚀
 
-## 📈 Activity Graph
-<p align="center">
-<a href="https://wakatime.com/@DemyGuy">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DemyGuy&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-</a>
-</p>
+- [Welcome!](#welcome)
+- [Reach out to me](#reach-out-to-me)
+- [My personal values and work ethic](#my-personal-values-and-work-ethic)
+- [Rapidfire](#rapidfire)
+- [Languages and Tools](#languages-and-tools)
+- [GitHub Stats](#github-stats)
+- [GitHub Trophies](#github-trophies)
+- [Random Dev Quote](#random-dev-quote)
+- [Top Contributed Repo](#top-contributed-repo)
+- [Random Dev Meme](#random-dev-meme)
+- [My Past Work](#my-past-work)
 
-## 🏆 My GitHub Achievements & Stats
-<p align="center">
-<a href="https://wakatime.com/@DemyGuy">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DemyGuy&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Demy Guy's wakatime stats"/>
-</a>
-<a href="https://github.com/DemyGuy?tab=achievements">
-<img src="https://github-profile-trophy.vercel.app/?username=DemyGuy&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Demy Guy's trophy stats"/>
-</a>
-</p>
+## My Web Projects 🌐
 
-## 🎖 Badges
-<p align="center">
-<a href="https://wakatime.com/@DemyGuy">
-<img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime">
-</a>
-<a href="https://github.com/DemyGuy?tab=following">
-<img src="https://img.shields.io/github/stars/DemyGuy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars">
-</a>
-<a href="https://github.com/DemyGuy?tab=followers">
-<img src="https://img.shields.io/github/followers/DemyGuy?&logoColor=red&style=social" alt="GitHub followers">
-</a>
-</p>
+- [TrademarkToday](https://trademarktoday-nextjs.vercel.app)
+- [TrademarkToday RBXK](https://trademarktoday-nextjs-rbxk.vercel.app)
 
-## 🎉 Thanks for visiting!
-<p align="center">
-<a href="https://gist.github.com/DemyGuy">
-<img src="https://profile-counter.glitch.me/{DemyGuy}/count.svg" alt="Demy Guy :: Visitor's Count" />
-</a>
-</p>
+## Welcome!
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-</p>
-
----
-
-Made with ❤️ by Demy Guy.
-# Reach out to me #
-
-To comtact me.
-developefullstack420@gmail.com
-
-![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
-
-<table>
-  <tr>
-    <td>
-      
-- [Welcome!](#AuWaiLun-welcome)
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Rapidfire](#rapidfire)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
-    - [✍️ Random Dev Quote](#️-random-dev-quote)
-    - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
-
-    </td>
-    <td>
-      https://trademarktoday-nextjs.vercel.app <br/>
-      https://trademarktoday-nextjs-rbxk.vercel.app
-    </td>
-  </tr>
-</table>
-
-
-# Welcome!
-  
-
-<a href="http://au-portfolio.great-site.net" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-
+You can find more about me on my [portfolio](http://au-portfolio.great-site.net).
 
 ## My personal values and work ethic
+
 ✨ I want to build strong relationships with my clients.
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
@@ -271,37 +202,22 @@ developefullstack420@gmail.com
 ✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
          
 ✨ Payment gateway integration  ✔Stripe, ✔PayPal
-        
 
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
+## Rapidfire
 - 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
-  
-
 - 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ⚡ Fun fact: I keep night shift switched on at all times
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+## Do you want to see my past work?
 
+### Freelancer Account Creating Bot
+<p align="center">
+<a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">
+<img src="https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true" width="70%" alt="Freelancer Create Account Bot" />
+</a>
+</p>
 
-</td></tr></table>  
+---
 
-<br/>  
-  
-
-# Do you want to see my past work?
-
-## Freelancer Account Creating Bot
-<a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
+Made with ❤️ by Demy Guy.
