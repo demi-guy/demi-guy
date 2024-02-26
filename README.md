@@ -20,7 +20,6 @@ Feel free to reach out to me if you have any questions or if you're interested i
 Thank you for visiting my GitHub profile!
 
 <div align="center">
-# 🛠 Tech Stack
 
 This repository presents a collection of technologies and tools that I've used and worked with.
 
